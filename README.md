@@ -1,6 +1,8 @@
-🚀 Minha Imersão Alura de Front-End
-Gratidão e Aprendizado 🙏✨
-O Que Aprendi
+<p>🚀 Minha Imersão Alura de Front-End</p>
+
+<p>Gratidão e Aprendizado 🙏✨</p>
+
+<p>O Que Aprendi</p>
 Durante esta incrível jornada, mergulhei no universo do desenvolvimento front-end e conquistei habilidades fundamentais:
 🌐 Fundamentos Web
 
